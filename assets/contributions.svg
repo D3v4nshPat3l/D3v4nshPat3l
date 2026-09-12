@@ -417,6 +417,7 @@
     <rect x="960" y="137" width="14" height="14" rx="3" fill="#0b4f37"/>
     <rect x="960" y="154" width="14" height="14" rx="3" fill="#0f8a5c"/>
     <rect x="960" y="171" width="14" height="14" rx="3" fill="#0b4f37"/>
+    <rect x="960" y="188" width="14" height="14" rx="3" fill="#0d1a17"/>
 </g>
 
 <text x="806" y="227" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.4"
