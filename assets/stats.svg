@@ -84,19 +84,19 @@
       fill="#37604f">LANGUAGE DISTRIBUTION</text>
 <rect x="640" y="118" width="510" height="18" rx="4" fill="#0f2229"/>
 <g clip-path="url(#st-reveal)">
-    <rect x="640.0" y="118" width="204.6" height="18" fill="#3572A5"/>
-    <rect x="844.6" y="118" width="120.1" height="18" fill="#dea584"/>
-    <rect x="964.6" y="118" width="65.6" height="18" fill="#3178c6"/>
-    <rect x="1030.2" y="118" width="39.9" height="18" fill="#e34c26"/>
-    <rect x="1070.0" y="118" width="35.7" height="18" fill="#f1e05a"/>
-    <rect x="1105.7" y="118" width="34.8" height="18" fill="#663399"/>
+    <rect x="640.0" y="118" width="205.6" height="18" fill="#3572A5"/>
+    <rect x="845.6" y="118" width="122.3" height="18" fill="#dea584"/>
+    <rect x="967.9" y="118" width="66.8" height="18" fill="#3178c6"/>
+    <rect x="1034.7" y="118" width="36.4" height="18" fill="#f1e05a"/>
+    <rect x="1071.1" y="118" width="35.4" height="18" fill="#663399"/>
+    <rect x="1106.5" y="118" width="33.9" height="18" fill="#e34c26"/>
 </g>
 <rect x="640" y="118" width="510" height="18" rx="4" fill="none" stroke="#0a1720"/>
 
-  <g><circle cx="645" cy="172" r="5" fill="#3572A5"/><text x="658" y="176" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#7f9aa8">Python</text><text x="872" y="176" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" font-weight="700" fill="#eafff6" text-anchor="end">40.1%</text></g>
-  <g><circle cx="907" cy="172" r="5" fill="#dea584"/><text x="920" y="176" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#7f9aa8">Rust</text><text x="1134" y="176" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" font-weight="700" fill="#eafff6" text-anchor="end">23.5%</text></g>
-  <g><circle cx="645" cy="198" r="5" fill="#3178c6"/><text x="658" y="202" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#7f9aa8">TypeScript</text><text x="872" y="202" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" font-weight="700" fill="#eafff6" text-anchor="end">12.9%</text></g>
-  <g><circle cx="907" cy="198" r="5" fill="#e34c26"/><text x="920" y="202" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#7f9aa8">HTML</text><text x="1134" y="202" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" font-weight="700" fill="#eafff6" text-anchor="end">7.8%</text></g>
-  <g><circle cx="645" cy="224" r="5" fill="#f1e05a"/><text x="658" y="228" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#7f9aa8">JavaScript</text><text x="872" y="228" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" font-weight="700" fill="#eafff6" text-anchor="end">7.0%</text></g>
-  <g><circle cx="907" cy="224" r="5" fill="#663399"/><text x="920" y="228" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#7f9aa8">CSS</text><text x="1134" y="228" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" font-weight="700" fill="#eafff6" text-anchor="end">6.8%</text></g>
+  <g><circle cx="645" cy="172" r="5" fill="#3572A5"/><text x="658" y="176" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#7f9aa8">Python</text><text x="872" y="176" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" font-weight="700" fill="#eafff6" text-anchor="end">40.3%</text></g>
+  <g><circle cx="907" cy="172" r="5" fill="#dea584"/><text x="920" y="176" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#7f9aa8">Rust</text><text x="1134" y="176" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" font-weight="700" fill="#eafff6" text-anchor="end">24.0%</text></g>
+  <g><circle cx="645" cy="198" r="5" fill="#3178c6"/><text x="658" y="202" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#7f9aa8">TypeScript</text><text x="872" y="202" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" font-weight="700" fill="#eafff6" text-anchor="end">13.1%</text></g>
+  <g><circle cx="907" cy="198" r="5" fill="#f1e05a"/><text x="920" y="202" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#7f9aa8">JavaScript</text><text x="1134" y="202" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" font-weight="700" fill="#eafff6" text-anchor="end">7.1%</text></g>
+  <g><circle cx="645" cy="224" r="5" fill="#663399"/><text x="658" y="228" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#7f9aa8">CSS</text><text x="872" y="228" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" font-weight="700" fill="#eafff6" text-anchor="end">6.9%</text></g>
+  <g><circle cx="907" cy="224" r="5" fill="#e34c26"/><text x="920" y="228" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#7f9aa8">HTML</text><text x="1134" y="228" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" font-weight="700" fill="#eafff6" text-anchor="end">6.6%</text></g>
 </svg>
