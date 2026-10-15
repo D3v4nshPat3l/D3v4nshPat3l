@@ -1,0 +1,261 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 811" width="700" height="811" role="img" aria-label="ASCII-art portrait of D3v4nshPat3l rendering itself line by line in a terminal">
+<title>D3v4nshPat3l &#183; ./portrait.sh</title>
+<defs>
+  <linearGradient id="pf-bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#070d14"/><stop offset="1" stop-color="#03070c"/>
+  </linearGradient>
+  <linearGradient id="pf-bar" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0d1622"/><stop offset="1" stop-color="#080f18"/>
+  </linearGradient>
+  <linearGradient id="pf-ink" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#8dffd2"/>
+    <stop offset="0.42" stop-color="#00ff9f"/>
+    <stop offset="0.78" stop-color="#19c9a0"/>
+    <stop offset="1" stop-color="#1ba3b8"/>
+  </linearGradient>
+  <radialGradient id="pf-glow" cx="50%" cy="46%" r="58%">
+    <stop offset="0" stop-color="#00ff9f" stop-opacity="0.10"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="pf-crt" width="3" height="3" patternUnits="userSpaceOnUse">
+    <rect width="3" height="1" fill="#9dfbdb" opacity="0.030"/>
+  </pattern>
+  <filter id="pf-soft" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="3.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="p0"><rect x="44" y="70.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.000s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p1"><rect x="44" y="76.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.058s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p2"><rect x="44" y="83.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.116s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p3"><rect x="44" y="90.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.174s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p4"><rect x="44" y="97.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.232s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p5"><rect x="44" y="104.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.290s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p6"><rect x="44" y="110.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.348s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p7"><rect x="44" y="117.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.406s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p8"><rect x="44" y="124.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.464s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p9"><rect x="44" y="131.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.522s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p10"><rect x="44" y="138.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.580s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p11"><rect x="44" y="144.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.638s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p12"><rect x="44" y="151.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.696s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p13"><rect x="44" y="158.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.754s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p14"><rect x="44" y="165.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.812s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p15"><rect x="44" y="172.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.870s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p16"><rect x="44" y="178.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.928s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p17"><rect x="44" y="185.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="0.986s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p18"><rect x="44" y="192.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.044s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p19"><rect x="44" y="199.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.102s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p20"><rect x="44" y="206.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.160s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p21"><rect x="44" y="212.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.218s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p22"><rect x="44" y="219.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.276s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p23"><rect x="44" y="226.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.334s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p24"><rect x="44" y="233.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.392s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p25"><rect x="44" y="240.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.450s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p26"><rect x="44" y="246.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.508s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p27"><rect x="44" y="253.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.566s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p28"><rect x="44" y="260.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.624s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p29"><rect x="44" y="267.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.682s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p30"><rect x="44" y="274.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.740s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p31"><rect x="44" y="280.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.798s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p32"><rect x="44" y="287.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.856s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p33"><rect x="44" y="294.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.914s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p34"><rect x="44" y="301.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="1.972s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p35"><rect x="44" y="308.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.030s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p36"><rect x="44" y="314.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.088s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p37"><rect x="44" y="321.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.146s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p38"><rect x="44" y="328.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.204s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p39"><rect x="44" y="335.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.262s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p40"><rect x="44" y="342.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.320s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p41"><rect x="44" y="348.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.378s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p42"><rect x="44" y="355.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.436s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p43"><rect x="44" y="362.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.494s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p44"><rect x="44" y="369.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.552s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p45"><rect x="44" y="376.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.610s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p46"><rect x="44" y="382.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.668s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p47"><rect x="44" y="389.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.726s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p48"><rect x="44" y="396.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.784s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p49"><rect x="44" y="403.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.842s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p50"><rect x="44" y="410.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.900s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p51"><rect x="44" y="416.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="2.958s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p52"><rect x="44" y="423.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.016s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p53"><rect x="44" y="430.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.074s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p54"><rect x="44" y="437.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.132s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p55"><rect x="44" y="444.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.190s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p56"><rect x="44" y="450.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.248s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p57"><rect x="44" y="457.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.306s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p58"><rect x="44" y="464.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.364s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p59"><rect x="44" y="471.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.422s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p60"><rect x="44" y="478.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.480s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p61"><rect x="44" y="484.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.538s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p62"><rect x="44" y="491.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.596s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p63"><rect x="44" y="498.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.654s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p64"><rect x="44" y="505.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.712s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p65"><rect x="44" y="512.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.770s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p66"><rect x="44" y="518.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.828s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p67"><rect x="44" y="525.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.886s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p68"><rect x="44" y="532.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="3.944s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p69"><rect x="44" y="539.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.002s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p70"><rect x="44" y="546.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.060s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p71"><rect x="44" y="552.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.118s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p72"><rect x="44" y="559.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.176s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p73"><rect x="44" y="566.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.234s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p74"><rect x="44" y="573.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.292s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p75"><rect x="44" y="580.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.350s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p76"><rect x="44" y="586.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.408s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p77"><rect x="44" y="593.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.466s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p78"><rect x="44" y="600.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.524s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p79"><rect x="44" y="607.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.582s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p80"><rect x="44" y="614.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.640s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p81"><rect x="44" y="620.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.698s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p82"><rect x="44" y="627.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.756s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p83"><rect x="44" y="634.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.814s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p84"><rect x="44" y="641.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.872s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p85"><rect x="44" y="648.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.930s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p86"><rect x="44" y="654.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="4.988s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p87"><rect x="44" y="661.6" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="5.046s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p88"><rect x="44" y="668.4" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="5.104s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p89"><rect x="44" y="675.2" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="5.162s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p90"><rect x="44" y="682.0" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="5.220s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <clipPath id="p91"><rect x="44" y="688.8" width="0" height="6.80"><animate attributeName="width" from="0" to="612.0" begin="5.278s" dur="0.058s" fill="freeze"/></rect></clipPath>
+  <style>
+    .m{font-family:ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace}
+    .a{font-family:ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace;font-size:6.8px;fill:url(#pf-ink);white-space:pre}
+  </style>
+</defs>
+
+<rect x="1" y="1" width="698" height="809" rx="11" fill="url(#pf-bg)" stroke="#17293a"/>
+<rect x="1" y="1" width="698" height="809" rx="11" fill="url(#pf-glow)"/>
+<path d="M1 12 a11 11 0 0 1 11 -11 h676 a11 11 0 0 1 11 11 v22 h-698 z" fill="url(#pf-bar)"/>
+<path d="M1 34 H699" stroke="#17293a"/>
+<circle cx="24" cy="18" r="5" fill="#ff2e5b" opacity="0.85"/>
+<circle cx="42" cy="18" r="5" fill="#ffb020" opacity="0.85"/>
+<circle cx="60" cy="18" r="5" fill="#00ff9f" opacity="0.85"/>
+<text class="m" x="350" y="22" font-size="11" fill="#4d7a8f" text-anchor="middle">D3v4nshPat3l@byteshell: ~/portrait</text>
+
+<text class="m" x="44" y="56" font-size="11.5">
+  <tspan fill="#00ff9f">$</tspan><tspan fill="#c3d7e4"> ./portrait.sh --render --ascii</tspan>
+</text>
+
+<g class="a">
+  <text xml:space="preserve" x="44" y="75.6" textLength="4.08" lengthAdjust="spacingAndGlyphs" clip-path="url(#p0)"> </text>
+  <text xml:space="preserve" x="44" y="82.4" textLength="4.08" lengthAdjust="spacingAndGlyphs" clip-path="url(#p1)"> </text>
+  <text xml:space="preserve" x="44" y="89.2" textLength="4.08" lengthAdjust="spacingAndGlyphs" clip-path="url(#p2)"> </text>
+  <text xml:space="preserve" x="44" y="96.0" textLength="4.08" lengthAdjust="spacingAndGlyphs" clip-path="url(#p3)"> </text>
+  <text xml:space="preserve" x="44" y="102.8" textLength="4.08" lengthAdjust="spacingAndGlyphs" clip-path="url(#p4)"> </text>
+  <text xml:space="preserve" x="44" y="109.6" textLength="4.08" lengthAdjust="spacingAndGlyphs" clip-path="url(#p5)"> </text>
+  <text xml:space="preserve" x="44" y="116.4" textLength="314.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p6)">                                                                   ;, .    :,</text>
+  <text xml:space="preserve" x="44" y="123.2" textLength="359.04" lengthAdjust="spacingAndGlyphs" clip-path="url(#p7)">                                                            .i1i,. .     .  ... ...    ,</text>
+  <text xml:space="preserve" x="44" y="130.0" textLength="371.28" lengthAdjust="spacingAndGlyphs" clip-path="url(#p8)">                                                         i; ,,            ...     .    ....</text>
+  <text xml:space="preserve" x="44" y="136.8" textLength="375.36" lengthAdjust="spacingAndGlyphs" clip-path="url(#p9)">                                                     ,i11i,                        ..     :,</text>
+  <text xml:space="preserve" x="44" y="143.6" textLength="391.68" lengthAdjust="spacingAndGlyphs" clip-path="url(#p10)">                                                     ,;,                             ...     .,.</text>
+  <text xml:space="preserve" x="44" y="150.4" textLength="399.84" lengthAdjust="spacingAndGlyphs" clip-path="url(#p11)">                                                 .;:i;                                ,.    ..,,;.</text>
+  <text xml:space="preserve" x="44" y="157.2" textLength="403.92" lengthAdjust="spacingAndGlyphs" clip-path="url(#p12)">                                                   .                                          ..,,.</text>
+  <text xml:space="preserve" x="44" y="164.0" textLength="408.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#p13)">                                                 ,i                                      ..    , ..,</text>
+  <text xml:space="preserve" x="44" y="170.8" textLength="412.08" lengthAdjust="spacingAndGlyphs" clip-path="url(#p14)">                                                .:                                    .    .    .  .,</text>
+  <text xml:space="preserve" x="44" y="177.6" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p15)">                                              .:.                                                  .,:</text>
+  <text xml:space="preserve" x="44" y="184.4" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p16)">                                              ;;                                                 , .,,</text>
+  <text xml:space="preserve" x="44" y="191.2" textLength="420.24" lengthAdjust="spacingAndGlyphs" clip-path="url(#p17)">                                             ,:                                                     :i.</text>
+  <text xml:space="preserve" x="44" y="198.0" textLength="424.32" lengthAdjust="spacingAndGlyphs" clip-path="url(#p18)">                                             i:                                         ....         i;.</text>
+  <text xml:space="preserve" x="44" y="204.8" textLength="424.32" lengthAdjust="spacingAndGlyphs" clip-path="url(#p19)">                                             1,                           ....,,......,;1ttfLfttf;   :;,</text>
+  <text xml:space="preserve" x="44" y="211.6" textLength="428.40" lengthAdjust="spacingAndGlyphs" clip-path="url(#p20)">                                             1:                   :iiiiiiiiiiii11111tfCG0000000GGG, .1:,.</text>
+  <text xml:space="preserve" x="44" y="218.4" textLength="420.24" lengthAdjust="spacingAndGlyphs" clip-path="url(#p21)">                                             1i                  :1tLfttttttttttfLCCGG000000880000C .i,</text>
+  <text xml:space="preserve" x="44" y="225.2" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p22)">                                             ;1                .,;itLLfffftttttLLCGG0G0000000000008t,:</text>
+  <text xml:space="preserve" x="44" y="232.0" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p23)">                                             ,1           . ....,;i1tLLffffffffLLCGG000088000000088C:,</text>
+  <text xml:space="preserve" x="44" y="238.8" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p24)">                                              i          ...:;:::;iitLLLfffffffLLCG08880888088000880i,</text>
+  <text xml:space="preserve" x="44" y="245.6" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p25)">                                              ;i     ....:,:;;iiii1tfLLLLffffffLCCGG08888@@@@@@88@88C:</text>
+  <text xml:space="preserve" x="44" y="252.4" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p26)">                                               t    ..,;;;;;;111fLCCCLLLfffLLLCCCCCCGG08888888@@@@@8G,</text>
+  <text xml:space="preserve" x="44" y="259.2" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p27)">                                               ;;  .,,:;iiii111fCCCLCLLCCCCftttttttffLLCCCGGGG0CCCCCC;</text>
+  <text xml:space="preserve" x="44" y="266.0" textLength="420.24" lengthAdjust="spacingAndGlyphs" clip-path="url(#p28)">                                                1  ,::;;;1i11tLLLCCCCCCf1i:...      ,;;i1ttt1i:  .,:;t;</text>
+  <text xml:space="preserve" x="44" y="272.8" textLength="420.24" lengthAdjust="spacingAndGlyphs" clip-path="url(#p29)">                                                ;: :;;;i;;i11fLLCCCCLL1;::::::,        .iffi.  ...:tCG;</text>
+  <text xml:space="preserve" x="44" y="279.6" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p30)">                                                 i ,:::;iiii1fLLCCCLft11i;,.  .1i.   :1tfG8L    it;,LL</text>
+  <text xml:space="preserve" x="44" y="286.4" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p31)">                                                ;Ct1i,.:iiii1fCCCCCLf1;,  :;  :Lf;:::1tLCG8@t:::fCff0f</text>
+  <text xml:space="preserve" x="44" y="293.2" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p32)">                                               ;L;iLft;1fi:;ifLCCCCCLt1111t1iiii1tttffLCCC0@@CLLff0@@G</text>
+  <text xml:space="preserve" x="44" y="300.0" textLength="420.24" lengthAdjust="spacingAndGlyphs" clip-path="url(#p33)">                                               fi,CG1iftLL;:1LCCGGGCLLLLLLLLLLLLLLCCCCCCLCG88800008888;</text>
+  <text xml:space="preserve" x="44" y="306.8" textLength="420.24" lengthAdjust="spacingAndGlyphs" clip-path="url(#p34)">                                               L;iGC1ttttLt:1LCGGGGGCCGGGGG0G0GGGGGCCCLfLCG8@@888088@@C</text>
+  <text xml:space="preserve" x="44" y="313.6" textLength="424.32" lengthAdjust="spacingAndGlyphs" clip-path="url(#p35)">                                               ftiGt;, ;tLtitLLCCGGGGGGGGGGG000000GLfffLGGC088@@8@@@@@8.</text>
+  <text xml:space="preserve" x="44" y="320.4" textLength="424.32" lengthAdjust="spacingAndGlyphs" clip-path="url(#p36)">                                               ;L1C:. ;tfCf;ifLLCGGGGGGCCGGG00000GCtfGGL1;111LL0@@@@@@8.</text>
+  <text xml:space="preserve" x="44" y="327.2" textLength="420.24" lengthAdjust="spacingAndGlyphs" clip-path="url(#p37)">                                                ftfi ,ttfLL;;ifLLCGGCCCLCCCCGGG0GCf;tf:   ,:ii t88@@@@0</text>
+  <text xml:space="preserve" x="44" y="334.0" textLength="420.24" lengthAdjust="spacingAndGlyphs" clip-path="url(#p38)">                                                ,C1ti:;;ttf1:i1fLLCCCCLLLLLCCCCCCCf1;;;1i:;1LfC8008@@@L</text>
+  <text xml:space="preserve" x="44" y="340.8" textLength="420.24" lengthAdjust="spacingAndGlyphs" clip-path="url(#p39)">                                                 iC1tfCf;iff;;;i1fLCLLLLLLLLCCLLCCLLfti,.,i;.:;L@@8@@@;</text>
+  <text xml:space="preserve" x="44" y="347.6" textLength="420.24" lengthAdjust="spacingAndGlyphs" clip-path="url(#p40)">                                                  ;CLf1ftfff1:;;i1tfffLLLLLCLLLLLLft;::,;1fffLf1iL0@@0,</text>
+  <text xml:space="preserve" x="44" y="354.4" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p41)">                                                    iLLLLL1,1:;;ii1t1ttffLLLLLLL1:..:i;;;;;tt1tLf.1@@L</text>
+  <text xml:space="preserve" x="44" y="361.2" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p42)">                                                      1Lfti,ii:;;1111it1tfffLLf1:.  ..,,:;;i1t1,:;t80;</text>
+  <text xml:space="preserve" x="44" y="368.0" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p43)">                                                       1tffti::;iii1111i11tfLLti::,,:1tLCGGGG080L1C@f.</text>
+  <text xml:space="preserve" x="44" y="374.8" textLength="412.08" lengthAdjust="spacingAndGlyphs" clip-path="url(#p44)">                                                       ittLLf;,::i1111111t1tfftii1tft1i;;ii;:1f0@00G;</text>
+  <text xml:space="preserve" x="44" y="381.6" textLength="412.08" lengthAdjust="spacingAndGlyphs" clip-path="url(#p45)">                                                       if1ffLt,.,:;;:;1i11111tt1ttt1i;,    .,;fGG00L.</text>
+  <text xml:space="preserve" x="44" y="388.4" textLength="408.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#p46)">                                                       :t1tfffi,.,,,,:;;;i111t1i1i1iii1tttfCGGGGGGC:</text>
+  <text xml:space="preserve" x="44" y="395.2" textLength="403.92" lengthAdjust="spacingAndGlyphs" clip-path="url(#p47)">                                                       ;t1tffffi,   ,,,,:;iiiiii11ttfffLLCLCC08@8Ci</text>
+  <text xml:space="preserve" x="44" y="402.0" textLength="399.84" lengthAdjust="spacingAndGlyphs" clip-path="url(#p48)">                                                       i111tfffti:.    .,,,::;ii11tttt1i11iiitCCCi</text>
+  <text xml:space="preserve" x="44" y="408.8" textLength="399.84" lengthAdjust="spacingAndGlyphs" clip-path="url(#p49)">                                                      .1ii1ttfftt1i:       .,,::;ii;:::,,,.,:i1i;.</text>
+  <text xml:space="preserve" x="44" y="415.6" textLength="395.76" lengthAdjust="spacingAndGlyphs" clip-path="url(#p50)">                                                      ;t;;i1tfftti;;:,           . .         ..,.</text>
+  <text xml:space="preserve" x="44" y="422.4" textLength="293.76" lengthAdjust="spacingAndGlyphs" clip-path="url(#p51)">                                                     itii;;ittftt1i;:,,.</text>
+  <text xml:space="preserve" x="44" y="429.2" textLength="363.12" lengthAdjust="spacingAndGlyphs" clip-path="url(#p52)">                                                 .1fL1;iii;;1tttt1i;::.. .   ..        :1</text>
+  <text xml:space="preserve" x="44" y="436.0" textLength="363.12" lengthAdjust="spacingAndGlyphs" clip-path="url(#p53)">                                                :GGGCti;;;iii1ttt1i;;::...   ..   ..,,:f;</text>
+  <text xml:space="preserve" x="44" y="442.8" textLength="363.12" lengthAdjust="spacingAndGlyphs" clip-path="url(#p54)">                                             .if0Lfffftt1;;;i11tt1i;;::,...........,,,1L.</text>
+  <text xml:space="preserve" x="44" y="449.6" textLength="359.04" lengthAdjust="spacingAndGlyphs" clip-path="url(#p55)">                                            :CGGLLffffffft1;;i1t111i;;:,,,,:,.,:::,.,iLL</text>
+  <text xml:space="preserve" x="44" y="456.4" textLength="359.04" lengthAdjust="spacingAndGlyphs" clip-path="url(#p56)">                                           tGLLLCCLLLLfftttt1i;i111ii;;:::::::;;;;;;;tGt</text>
+  <text xml:space="preserve" x="44" y="463.2" textLength="367.20" lengthAdjust="spacingAndGlyphs" clip-path="url(#p57)">                                         iG0CLCCCCLLLLLLfttttt1iii1iiii;;;;;;iiiiiiitLC, .</text>
+  <text xml:space="preserve" x="44" y="470.0" textLength="359.04" lengthAdjust="spacingAndGlyphs" clip-path="url(#p58)">                                       ;G8GCCCCCCCLLLLLLLLfttt1t11iiiiiiiiiii111ii;itLC:</text>
+  <text xml:space="preserve" x="44" y="476.8" textLength="375.36" lengthAdjust="spacingAndGlyphs" clip-path="url(#p59)">                                     :L0GCCGGCCCCCCCLLLLLffffttt111111iiiiiiiitLt111fL8@Gf;.</text>
+  <text xml:space="preserve" x="44" y="483.6" textLength="383.52" lengthAdjust="spacingAndGlyphs" clip-path="url(#p60)">                                   :L0GCCCCGCCGCCCCCCCCCLLLLfffffttt11t111iiiitLLfttfLG@@@@0f,</text>
+  <text xml:space="preserve" x="44" y="490.4" textLength="391.68" lengthAdjust="spacingAndGlyphs" clip-path="url(#p61)">                                  tGGCCCCCGCCGGGGGGGGGCCCCCCLLLLLLffftttttfft11LCfttff:8@@88@8L,</text>
+  <text xml:space="preserve" x="44" y="497.2" textLength="399.84" lengthAdjust="spacingAndGlyphs" clip-path="url(#p62)">                                iCGCCCCCGGCCGGGGGGGGGGGGGGGCCCCCCLCLLLLLfffffffCGCLfLfi88@@0G0@8C:</text>
+  <text xml:space="preserve" x="44" y="504.0" textLength="408.00" lengthAdjust="spacingAndGlyphs" clip-path="url(#p63)">                              ,LGCLCCCCGGCCGGGGGGGGGGGGGGGGGGGCCGCCCCCCCCCCCLLLLLLCGGC000G8@8GG0@8f.</text>
+  <text xml:space="preserve" x="44" y="510.8" textLength="412.08" lengthAdjust="spacingAndGlyphs" clip-path="url(#p64)">                             :CCLCCCCCGGCGGGGGGGGGGGGGGG0000GGGCCCCCCGGGGCCCGGGGCCCCGG000G08@80GG08C:</text>
+  <text xml:space="preserve" x="44" y="517.6" textLength="416.16" lengthAdjust="spacingAndGlyphs" clip-path="url(#p65)">                            ;CLLCCCCCCGLCGGGGGGGGGGGGGGG00G000GGGCCCCCGGGGGGCGGG00GGG000G0000@80GG00G;</text>
+  <text xml:space="preserve" x="44" y="524.4" textLength="420.24" lengthAdjust="spacingAndGlyphs" clip-path="url(#p66)">                           :CLLCCCCCCCCCGCCGGGGGGGGGGGGGGG00G00GGGGCCCCCGGGGGGGG000G0000000000880G00GG:</text>
+  <text xml:space="preserve" x="44" y="531.2" textLength="424.32" lengthAdjust="spacingAndGlyphs" clip-path="url(#p67)">                          ,LLLCCCCCCCCLCCCCCCCGGCCCCCCCGGGG000G00GGGGCCGGGGGGGG0000000000000000880G0GCC.</text>
+  <text xml:space="preserve" x="44" y="538.0" textLength="424.32" lengthAdjust="spacingAndGlyphs" clip-path="url(#p68)">                         .fLLLLCCCCLCCLCCCCCCCCCCCCCCCCLCGG000GG00GCGGGGGGGGGGGGG000000000000000000G0CCi</text>
+  <text xml:space="preserve" x="44" y="544.8" textLength="428.40" lengthAdjust="spacingAndGlyphs" clip-path="url(#p69)">                        ,fLLLLLCCCLCCLCCCCCCCCCCCCCCLCCCLfLG0000CG0GGGGGGGGGG00GGG0000000000000000000GLL.</text>
+  <text xml:space="preserve" x="44" y="551.6" textLength="428.40" lengthAdjust="spacingAndGlyphs" clip-path="url(#p70)">                       ,LLLLLLCCLLCCCLCCCCCCCCCCCCLLCCLLCLttC0000CG00GGGGGGGCG00GGG0000000000000000000CC1</text>
+  <text xml:space="preserve" x="44" y="558.4" textLength="428.40" lengthAdjust="spacingAndGlyphs" clip-path="url(#p71)">                      ,LLLLLLCLLLCCCCLCCCCCCCCCLLLLLLCCLfCL1iL0000CC00GCGGGGGGG000GG0000000000000000000CL</text>
+  <text xml:space="preserve" x="44" y="565.2" textLength="432.48" lengthAdjust="spacingAndGlyphs" clip-path="url(#p72)">                     ,LLLLLLLLLLCCLCLLCCCCCCLCCLLLLLffLCffLL;;f0000CCG0GGGGGG0GG00GGG0000G0000000000000GC:</text>
+  <text xml:space="preserve" x="44" y="572.0" textLength="432.48" lengthAdjust="spacingAndGlyphs" clip-path="url(#p73)">                     fLLLLLLLLLCCCLLLCCCCCCCCCCLLLLLfttLCLfLt,:LGG8GCLG0GGGGGG0GG000GG0000GG00000000000001</text>
+  <text xml:space="preserve" x="44" y="578.8" textLength="432.48" lengthAdjust="spacingAndGlyphs" clip-path="url(#p74)">                    1LLLLLLLLCLLLLLLLLLLLffLLLCCCLLLfft1fCffLi.iCCG0GLLG0GGGGG000G000G08000GG000000000000L</text>
+  <text xml:space="preserve" x="44" y="585.6" textLength="436.56" lengthAdjust="spacingAndGlyphs" clip-path="url(#p75)">                   ;LfLLLLLLCffLffLCttfLfttt1tfffLLLLLLtitCfff:,1CfG0GLLCGGGGG0G000000G00000GG000GG000000G:</text>
+  <text xml:space="preserve" x="44" y="592.4" textLength="440.64" lengthAdjust="spacingAndGlyphs" clip-path="url(#p76)">                   ffLLLLLfftfLLffLCttfLLftfftfft1tfLLLLt;tCfLi.:fLfG0CCLCGGGGGG0000000G00000GC00GG0000000C.</text>
+  <text xml:space="preserve" x="44" y="599.2" textLength="440.64" lengthAdjust="spacingAndGlyphs" clip-path="url(#p77)">                  iffLLLftffLLLftLLLftfffLfttttfLL1iitffLt1fLft..1CffG0CCCCGGGGGG0000000G00000CC00GG0000000t</text>
+  <text xml:space="preserve" x="44" y="606.0" textLength="444.72" lengthAdjust="spacingAndGlyphs" clip-path="url(#p78)">                  tffLLttLLfLLftfLLLftttfLffttttfCL11;;tLft1fLt: ;CLtLGGCCCCGGGGG00000000G0000CLG0GG0000000G,</text>
+  <text xml:space="preserve" x="44" y="612.8" textLength="444.72" lengthAdjust="spacingAndGlyphs" clip-path="url(#p79)">                 ,ttLfttLffLLfftLLLLf1tfffffft1tfLL11ftiiff11ffi ,LCftLGCCCCCGGGGGGG00000000000LL00CG00000001</text>
+  <text xml:space="preserve" x="44" y="619.6" textLength="444.72" lengthAdjust="spacingAndGlyphs" clip-path="url(#p80)">                 ;tff1LCLffLfftfLLLLft1fftfftt11tfLtitfL1,it11L1..tCfttLCLLCCCGGGGGGG0000000000CfC0CCG0G0000C</text>
+  <text xml:space="preserve" x="44" y="626.4" textLength="448.80" lengthAdjust="spacingAndGlyphs" clip-path="url(#p81)">                 ;tLifLLffLLttffLLLftt1tttttttt1ttLL1tttL1,;11tt. iCfttfLLLLCCCGCCGGGG000000000GffGGCGGGG0000;</text>
+  <text xml:space="preserve" x="44" y="633.2" textLength="448.80" lengthAdjust="spacingAndGlyphs" clip-path="url(#p82)">                 ;f1tLLffLLftttfLLLfft1tttttttt1ttfL1;i1ffi;;it1: ;CLtttfffLCCLCCCCGGG0G00000000LtCGCCGGGG0G0L</text>
+  <text xml:space="preserve" x="44" y="640.0" textLength="452.88" lengthAdjust="spacingAndGlyphs" clip-path="url(#p83)">                 itiLfLffLfttfffLLLfft1ttttt1111tttLf1i;tLi,ii;1i.:LCfttttffLLfLCCCCGCGGG0000000CtLGCCGCGGGG0G,</text>
+  <text xml:space="preserve" x="44" y="646.8" textLength="452.88" lengthAdjust="spacingAndGlyphs" clip-path="url(#p84)">                 ;i1fLffLfttffffLLfffti1tttt111111tfL1ii1Lt..11;1:,fGftttfffLftfCLLCGCGGGG000000GffCGLCCGGGGG01</text>
+  <text xml:space="preserve" x="44" y="653.6" textLength="452.88" lengthAdjust="spacingAndGlyphs" clip-path="url(#p85)">                 :1ffffffftfttfLLLffft1i1tttt111111tCt;;1tf;..1ii:,1GLtttfffftttLLfLGCLGGGG000000LtLCLLCCGGGG0C</text>
+  <text xml:space="preserve" x="44" y="660.4" textLength="456.96" lengthAdjust="spacingAndGlyphs" clip-path="url(#p86)">                 ,ttffftffffttfLLLffft1ii11111iii111LL1,:1ti..:t;.,iLLttttfft1tttfffLCLCGGGG00000CfLCLfLLGGGGG0:</text>
+  <text xml:space="preserve" x="44" y="667.2" textLength="456.96" lengthAdjust="spacingAndGlyphs" clip-path="url(#p87)">                 .t1fftfffffttfLLLffff1iii1ii1iiii11fLfi.;f1,.,1; ,;LLfttttf1i11ttftfCLLGGGGG0000GfLLfLLLCGCCG0t</text>
+  <text xml:space="preserve" x="44" y="674.0" textLength="456.96" lengthAdjust="spacingAndGlyphs" clip-path="url(#p88)">                  iiftfLffftttfLLfffff1iii1111iiiii1tLtt;.if:..ii ,;fLffttftiii1tttttLLfCGGGGGG000LfLfffLCGCCCGC</text>
+  <text xml:space="preserve" x="44" y="680.8" textLength="461.04" lengthAdjust="spacingAndGlyphs" clip-path="url(#p89)">                  ;1tfLfffttttfLLLfffftiiii1111i;;iiiLftfi:ti .;; ,;tLffttftii;i11t1tfLtLGCGGGGG00GfLLfffLGGCCCG:</text>
+  <text xml:space="preserve" x="44" y="687.6" textLength="461.04" lengthAdjust="spacingAndGlyphs" clip-path="url(#p90)">                  :ttffftttt1tfLLfttffti;;iii111i;;;;tL11f1ii .:; ,:1fttttt11i;;i111ttfffGGGGGGCG00LLLffffCGCCCGi</text>
+  <text xml:space="preserve" x="44" y="694.4" textLength="461.04" lengthAdjust="spacingAndGlyphs" clip-path="url(#p91)">                   1tffftttt1tffLftttff1i;;iiiii;;ii;1Lt;1ft; .:: ,:;11111t11ii;i1t11tfffCGGGCGCC00CfLftttLGCCLC1</text>
+</g>
+
+<rect x="44" y="70" width="4" height="6.80" fill="#00ff9f" opacity="0.9">
+  <animate attributeName="x" values="44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0;656.0;44.0" keyTimes="0.00000;0.01022;0.01087;0.02109;0.02174;0.03196;0.03261;0.04283;0.04348;0.05370;0.05435;0.06457;0.06522;0.07543;0.07609;0.08630;0.08696;0.09717;0.09783;0.10804;0.10870;0.11891;0.11957;0.12978;0.13043;0.14065;0.14130;0.15152;0.15217;0.16239;0.16304;0.17326;0.17391;0.18413;0.18478;0.19500;0.19565;0.20587;0.20652;0.21674;0.21739;0.22761;0.22826;0.23848;0.23913;0.24935;0.25000;0.26022;0.26087;0.27109;0.27174;0.28196;0.28261;0.29283;0.29348;0.30370;0.30435;0.31457;0.31522;0.32543;0.32609;0.33630;0.33696;0.34717;0.34783;0.35804;0.35870;0.36891;0.36957;0.37978;0.38043;0.39065;0.39130;0.40152;0.40217;0.41239;0.41304;0.42326;0.42391;0.43413;0.43478;0.44500;0.44565;0.45587;0.45652;0.46674;0.46739;0.47761;0.47826;0.48848;0.48913;0.49935;0.50000;0.51022;0.51087;0.52109;0.52174;0.53196;0.53261;0.54283;0.54348;0.55370;0.55435;0.56457;0.56522;0.57543;0.57609;0.58630;0.58696;0.59717;0.59783;0.60804;0.60870;0.61891;0.61957;0.62978;0.63043;0.64065;0.64130;0.65152;0.65217;0.66239;0.66304;0.67326;0.67391;0.68413;0.68478;0.69500;0.69565;0.70587;0.70652;0.71674;0.71739;0.72761;0.72826;0.73848;0.73913;0.74935;0.75000;0.76022;0.76087;0.77109;0.77174;0.78196;0.78261;0.79283;0.79348;0.80370;0.80435;0.81457;0.81522;0.82543;0.82609;0.83630;0.83696;0.84717;0.84783;0.85804;0.85870;0.86891;0.86957;0.87978;0.88043;0.89065;0.89130;0.90152;0.90217;0.91239;0.91304;0.92326;0.92391;0.93413;0.93478;0.94500;0.94565;0.95587;0.95652;0.96674;0.96739;0.97761;0.97826;0.98848;0.98913;0.99935;1" dur="5.34s" fill="freeze"/>
+  <animate attributeName="y" values="70.0;70.0;76.8;76.8;83.6;83.6;90.4;90.4;97.2;97.2;104.0;104.0;110.8;110.8;117.6;117.6;124.4;124.4;131.2;131.2;138.0;138.0;144.8;144.8;151.6;151.6;158.4;158.4;165.2;165.2;172.0;172.0;178.8;178.8;185.6;185.6;192.4;192.4;199.2;199.2;206.0;206.0;212.8;212.8;219.6;219.6;226.4;226.4;233.2;233.2;240.0;240.0;246.8;246.8;253.6;253.6;260.4;260.4;267.2;267.2;274.0;274.0;280.8;280.8;287.6;287.6;294.4;294.4;301.2;301.2;308.0;308.0;314.8;314.8;321.6;321.6;328.4;328.4;335.2;335.2;342.0;342.0;348.8;348.8;355.6;355.6;362.4;362.4;369.2;369.2;376.0;376.0;382.8;382.8;389.6;389.6;396.4;396.4;403.2;403.2;410.0;410.0;416.8;416.8;423.6;423.6;430.4;430.4;437.2;437.2;444.0;444.0;450.8;450.8;457.6;457.6;464.4;464.4;471.2;471.2;478.0;478.0;484.8;484.8;491.6;491.6;498.4;498.4;505.2;505.2;512.0;512.0;518.8;518.8;525.6;525.6;532.4;532.4;539.2;539.2;546.0;546.0;552.8;552.8;559.6;559.6;566.4;566.4;573.2;573.2;580.0;580.0;586.8;586.8;593.6;593.6;600.4;600.4;607.2;607.2;614.0;614.0;620.8;620.8;627.6;627.6;634.4;634.4;641.2;641.2;648.0;648.0;654.8;654.8;661.6;661.6;668.4;668.4;675.2;675.2;682.0;682.0;688.8;688.8;688.8" keyTimes="0.00000;0.01022;0.01087;0.02109;0.02174;0.03196;0.03261;0.04283;0.04348;0.05370;0.05435;0.06457;0.06522;0.07543;0.07609;0.08630;0.08696;0.09717;0.09783;0.10804;0.10870;0.11891;0.11957;0.12978;0.13043;0.14065;0.14130;0.15152;0.15217;0.16239;0.16304;0.17326;0.17391;0.18413;0.18478;0.19500;0.19565;0.20587;0.20652;0.21674;0.21739;0.22761;0.22826;0.23848;0.23913;0.24935;0.25000;0.26022;0.26087;0.27109;0.27174;0.28196;0.28261;0.29283;0.29348;0.30370;0.30435;0.31457;0.31522;0.32543;0.32609;0.33630;0.33696;0.34717;0.34783;0.35804;0.35870;0.36891;0.36957;0.37978;0.38043;0.39065;0.39130;0.40152;0.40217;0.41239;0.41304;0.42326;0.42391;0.43413;0.43478;0.44500;0.44565;0.45587;0.45652;0.46674;0.46739;0.47761;0.47826;0.48848;0.48913;0.49935;0.50000;0.51022;0.51087;0.52109;0.52174;0.53196;0.53261;0.54283;0.54348;0.55370;0.55435;0.56457;0.56522;0.57543;0.57609;0.58630;0.58696;0.59717;0.59783;0.60804;0.60870;0.61891;0.61957;0.62978;0.63043;0.64065;0.64130;0.65152;0.65217;0.66239;0.66304;0.67326;0.67391;0.68413;0.68478;0.69500;0.69565;0.70587;0.70652;0.71674;0.71739;0.72761;0.72826;0.73848;0.73913;0.74935;0.75000;0.76022;0.76087;0.77109;0.77174;0.78196;0.78261;0.79283;0.79348;0.80370;0.80435;0.81457;0.81522;0.82543;0.82609;0.83630;0.83696;0.84717;0.84783;0.85804;0.85870;0.86891;0.86957;0.87978;0.88043;0.89065;0.89130;0.90152;0.90217;0.91239;0.91304;0.92326;0.92391;0.93413;0.93478;0.94500;0.94565;0.95587;0.95652;0.96674;0.96739;0.97761;0.97826;0.98848;0.98913;0.99935;1" dur="5.34s" calcMode="discrete" fill="freeze"/>
+  <set attributeName="opacity" to="0" begin="5.34s"/>
+</rect>
+
+<g opacity="0">
+  <set attributeName="opacity" to="1" begin="5.34s"/>
+  <animate attributeName="opacity" from="0" to="1" begin="5.34s" dur="0.9s" fill="freeze"/>
+  <path d="M98 711.6 L602 711.6 L618 737.6 L602 763.6 L98 763.6 L82 737.6 Z"
+        fill="#06120f" stroke="#00ff9f" stroke-opacity="0.55"/>
+  <text class="m" x="350" y="737.6" font-size="25" font-weight="700" letter-spacing="7"
+        fill="#eafff6" text-anchor="middle" filter="url(#pf-soft)">D3v4nshPat3l</text>
+  <text class="m" x="350" y="755.6" font-size="9.5" letter-spacing="4.2"
+        fill="#00ff9f" text-anchor="middle">BUILD &#183; BREAK &#183; DOCUMENT &#183; HARDEN</text>
+</g>
+
+<g class="m" opacity="0" font-size="11.5">
+  <animate attributeName="opacity" from="0" to="1" begin="6.04s" dur="0.6s" fill="freeze"/>
+  <text x="44" y="797.6">
+    <tspan fill="#00ff9f">$</tspan><tspan fill="#c3d7e4"> whoami</tspan><tspan fill="#4d7a8f">  &#8594;  </tspan><tspan fill="#ffb020">Devansh Patel</tspan>
+  </text>
+  <rect x="240" y="786.6" width="7" height="13" fill="#00ff9f">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<rect x="1" y="1" width="698" height="809" rx="11" fill="url(#pf-crt)"/>
+</svg>

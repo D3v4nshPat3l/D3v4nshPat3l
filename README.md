@@ -22,6 +22,12 @@
 
 <h2><samp>&#9608;&#9617;&nbsp;&nbsp;01 &#8212; IDENTITY</samp></h2>
 
+<div align="center">
+
+<img src="assets/ascii-portrait.svg" width="62%" alt="ASCII-art portrait of Devansh Patel rendering itself row by row in a terminal" />
+
+</div>
+
 <img src="assets/whoami.svg" width="100%" alt="whoami --verbose: handle D3v4nshPat3l, offensive security, OSINT, CTF player, based in Gujarat India" />
 
 I build tooling that turns raw reconnaissance into findings someone can actually **act on** — and I write the report that proves it. Most of my work sits at the seam between *automation* and *evidence*: collect broadly, validate ruthlessly, document so it reproduces on the first try.
@@ -53,6 +59,8 @@ I build tooling that turns raw reconnaissance into findings someone can actually
 <img src="assets/rule.svg" width="100%" alt="" />
 
 <h2><samp>&#9608;&#9617;&nbsp;&nbsp;03 &#8212; FIELD PROJECTS</samp></h2>
+
+<a href="https://github.com/D3v4nshPat3l/ULPF"><img src="assets/card-ulpf.svg" width="100%" alt="ULPF — Universal Log Pre-processing Framework, SIH 2026 PS 26156: normalizes heterogeneous security logs to OCSF 1.9 with a tamper-evident chain of custody" /></a>
 
 <table>
 <tr>

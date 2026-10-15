@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="ULPF - Universal Log Pre-processing Framework, SIH 2026 problem statement 26156, normalizes heterogeneous security logs to OCSF 1.9 with a tamper-evident chain of custody">
+<title>ULPF &#183; Universal Log Pre-processing Framework</title>
+<defs>
+  <linearGradient id="ul-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#120a06"/><stop offset="1" stop-color="#05060a"/>
+  </linearGradient>
+  <radialGradient id="ul-glow" cx="74%" cy="50%" r="52%">
+    <stop offset="0" stop-color="#ff6b35" stop-opacity="0.13"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="ul-grid" width="26" height="26" patternUnits="userSpaceOnUse">
+    <path d="M26 0 V26 M0 26 H26" stroke="#1a1008" stroke-width="1" fill="none"/>
+  </pattern>
+  <filter id="ul-g" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .m{font-family:ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace}
+    .d{font-size:11px;fill:#a4927f}
+    .chip{font-size:9px;letter-spacing:1.1px;fill:#ffc09a}
+    .stg{font-size:8.5px;letter-spacing:1.1px;text-anchor:middle}
+  </style>
+</defs>
+
+<rect x="1" y="1" width="1198" height="258" rx="12" fill="url(#ul-bg)" stroke="#4a2a12"/>
+<rect x="1" y="1" width="1198" height="258" rx="12" fill="url(#ul-grid)" opacity="0.6"/>
+<rect x="1" y="1" width="1198" height="258" rx="12" fill="url(#ul-glow)"/>
+<rect x="1" y="1" width="5" height="258" rx="2.5" fill="#ff6b35" opacity="0.85"/>
+
+<g class="m">
+  <rect x="30" y="20" width="34" height="18" rx="4" fill="#2b1408" stroke="#8a4418"/>
+  <text x="47" y="33" font-size="10" font-weight="700" fill="#ff6b35" text-anchor="middle">01</text>
+  <circle cx="78" cy="29" r="3.5" fill="#ff6b35"><animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/></circle>
+  <text x="90" y="33" font-size="9.5" letter-spacing="1.8" fill="#9c6a44">BEST WORK &#183; SIH 2026 &#183; NTRO &#183; PS 26156</text>
+
+  <text x="30" y="86" font-size="40" font-weight="700" letter-spacing="3" fill="#fff1e6">ULPF</text>
+  <text x="152" y="86" font-size="12" letter-spacing="2.2" fill="#ff6b35">UNIVERSAL LOG</text>
+  <text x="152" y="103" font-size="12" letter-spacing="2.2" fill="#ff6b35">PRE-PROCESSING FRAMEWORK</text>
+
+  <text x="30" y="128" font-size="12.5" fill="#ffb489">&#8220;Any log in, OCSF out, nothing lost.&#8221;</text>
+  <path d="M30 142 H600" stroke="#3a2410"/>
+
+  <text class="d" x="30" y="163">Ingests heterogeneous perimeter-security logs &#8212; firewalls, IDS/IPS,</text>
+  <text class="d" x="30" y="180">proxies, web servers, MTAs and hosts &#8212; and emits one OCSF 1.9</text>
+  <text class="d" x="30" y="197">representation, preserving the exact input bytes plus a cryptographically</text>
+  <text class="d" x="30" y="214">verifiable chain of custody. Single Rust binary, no network at runtime.</text>
+
+  <g>
+    <rect x="30" y="230" width="44" height="17" rx="3.5" fill="#2b1408" stroke="#6e3714"/><text class="chip" x="52" y="242" text-anchor="middle">RUST</text>
+    <rect x="80" y="230" width="62" height="17" rx="3.5" fill="#2b1408" stroke="#6e3714"/><text class="chip" x="111" y="242" text-anchor="middle">OCSF 1.9</text>
+    <rect x="148" y="230" width="58" height="17" rx="3.5" fill="#2b1408" stroke="#6e3714"/><text class="chip" x="177" y="242" text-anchor="middle">Ed25519</text>
+    <rect x="212" y="230" width="74" height="17" rx="3.5" fill="#2b1408" stroke="#6e3714"/><text class="chip" x="249" y="242" text-anchor="middle">ZSTD VAULT</text>
+    <rect x="292" y="230" width="76" height="17" rx="3.5" fill="#2b1408" stroke="#6e3714"/><text class="chip" x="330" y="242" text-anchor="middle">YAML PACKS</text>
+    <rect x="374" y="230" width="58" height="17" rx="3.5" fill="#2b1408" stroke="#6e3714"/><text class="chip" x="403" y="242" text-anchor="middle">DOCKER</text>
+  </g>
+
+  <text x="1170" y="247" font-size="9.5" letter-spacing="1.6" fill="#7a4a2a" text-anchor="end">github.com/D3v4nshPat3l/ULPF</text>
+</g>
+
+<!-- ============ pipeline visual ============ -->
+<g class="m">
+  <text x="640" y="58" font-size="8.5" letter-spacing="1.6" fill="#7a4a2a">HETEROGENEOUS IN</text>
+  <text x="1170" y="58" font-size="8.5" letter-spacing="1.6" fill="#7a4a2a" text-anchor="end">ONE VOCABULARY OUT</text>
+
+  <!-- inbound format pills converging -->
+  <g font-size="8" letter-spacing="0.8">
+    <g opacity="0">
+      <rect x="638" y="70" width="52" height="15" rx="3" fill="#06222b" stroke="#1a5a6b"/>
+      <text x="664" y="81" fill="#22d3ee" text-anchor="middle">SYSLOG</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0;300,26" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.10;0.62;0.92" dur="4s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <rect x="638" y="88" width="40" height="15" rx="3" fill="#1a1233" stroke="#4c3d80"/>
+      <text x="658" y="99" fill="#a78bfa" text-anchor="middle">CEF</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0;306,10" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.14;0.26;0.66;0.94" dur="4s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <rect x="638" y="106" width="44" height="15" rx="3" fill="#241a06" stroke="#6b5015"/>
+      <text x="660" y="117" fill="#ffb020" text-anchor="middle">JSON</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0;304,-8" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.22;0.34;0.70;0.96" dur="4s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <rect x="638" y="124" width="44" height="15" rx="3" fill="#06231a" stroke="#17513c"/>
+      <text x="660" y="135" fill="#00ff9f" text-anchor="middle">W3C</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0;304,-26" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.30;0.42;0.74;0.98" dur="4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- stage rail -->
+  <path d="M700 152 H1100" stroke="#4a2a12" stroke-width="2"/>
+  <circle cy="152" r="4.5" fill="#ffd0b0" filter="url(#ul-g)">
+    <animate attributeName="cx" values="700;1100" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <g>
+    <rect x="666" y="140" width="76" height="24" rx="5" fill="#170c05" stroke="#4a2a12"/>
+    <text class="stg" x="704" y="156" fill="#9c6a44">VAULT</text>
+    <rect x="666" y="140" width="76" height="24" rx="5" fill="none" stroke="#ff6b35" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.16;0.20;1" dur="4s" repeatCount="indefinite"/></rect>
+
+    <rect x="754" y="140" width="76" height="24" rx="5" fill="#170c05" stroke="#4a2a12"/>
+    <text class="stg" x="792" y="156" fill="#9c6a44">DETECT</text>
+    <rect x="754" y="140" width="76" height="24" rx="5" fill="none" stroke="#ff6b35" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.20;0.24;0.38;0.42;1" dur="4s" repeatCount="indefinite"/></rect>
+
+    <rect x="842" y="140" width="76" height="24" rx="5" fill="#170c05" stroke="#4a2a12"/>
+    <text class="stg" x="880" y="156" fill="#9c6a44">EXTRACT</text>
+    <rect x="842" y="140" width="76" height="24" rx="5" fill="none" stroke="#ff6b35" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.42;0.46;0.60;0.64;1" dur="4s" repeatCount="indefinite"/></rect>
+
+    <rect x="930" y="140" width="84" height="24" rx="5" fill="#170c05" stroke="#4a2a12"/>
+    <text class="stg" x="972" y="156" fill="#9c6a44">NORMALIZE</text>
+    <rect x="930" y="140" width="84" height="24" rx="5" fill="none" stroke="#ff6b35" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.64;0.68;0.82;0.86;1" dur="4s" repeatCount="indefinite"/></rect>
+
+    <rect x="1026" y="140" width="76" height="24" rx="5" fill="#170c05" stroke="#4a2a12"/>
+    <text class="stg" x="1064" y="156" fill="#9c6a44">ATTEST</text>
+    <rect x="1026" y="140" width="76" height="24" rx="5" fill="none" stroke="#ff6b35" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.86;0.90;0.98;1" dur="4s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- OCSF output -->
+  <rect x="1114" y="136" width="56" height="32" rx="5" fill="#06231a" stroke="#17513c"/>
+  <text x="1142" y="149" font-size="8" letter-spacing="1" fill="#00ff9f" text-anchor="middle">OCSF</text>
+  <text x="1142" y="161" font-size="8" letter-spacing="1" fill="#00ff9f" text-anchor="middle">1.9</text>
+  <circle cx="1142" cy="152" r="19" fill="none" stroke="#00ff9f" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.8;0" keyTimes="0;0.90;0.95;1" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="14;14;24;28" keyTimes="0;0.90;0.96;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- tamper-evident hash chain -->
+  <text x="640" y="196" font-size="8.5" letter-spacing="1.4" fill="#7a4a2a">CHAIN OF CUSTODY</text>
+  <path d="M762 191 H1046" stroke="#3a2410"/>
+  <g>
+    <g fill="#170c05" stroke="#5c3416">
+      <rect x="762" y="200" width="40" height="20" rx="4"/><rect x="812" y="200" width="40" height="20" rx="4"/>
+      <rect x="862" y="200" width="40" height="20" rx="4"/><rect x="912" y="200" width="40" height="20" rx="4"/>
+      <rect x="962" y="200" width="40" height="20" rx="4"/><rect x="1012" y="200" width="40" height="20" rx="4"/>
+    </g>
+    <g stroke="#5c3416" stroke-width="1.4">
+      <path d="M802 210 H812"/><path d="M852 210 H862"/><path d="M902 210 H912"/>
+      <path d="M952 210 H962"/><path d="M1002 210 H1012"/>
+    </g>
+    <g class="m" font-size="7.5" text-anchor="middle" fill="#8a5a34">
+      <text x="782" y="214">4f1a</text><text x="832" y="214">b709</text><text x="882" y="214">e37c</text>
+      <text x="932" y="214">2d88</text><text x="982" y="214">a15e</text><text x="1032" y="214">30c6</text>
+    </g>
+    <rect x="762" y="200" width="40" height="20" rx="4" fill="none" stroke="#ff6b35" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="1;0;0;0;0;0;1" keyTimes="0;0.17;0.34;0.51;0.68;0.85;1" calcMode="discrete" dur="5s" repeatCount="indefinite"/></rect>
+    <rect x="812" y="200" width="40" height="20" rx="4" fill="none" stroke="#ff6b35" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;1;0;0;0;0;0" keyTimes="0;0.17;0.34;0.51;0.68;0.85;1" calcMode="discrete" dur="5s" repeatCount="indefinite"/></rect>
+    <rect x="862" y="200" width="40" height="20" rx="4" fill="none" stroke="#ff6b35" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0;0;0;0" keyTimes="0;0.17;0.34;0.51;0.68;0.85;1" calcMode="discrete" dur="5s" repeatCount="indefinite"/></rect>
+    <rect x="912" y="200" width="40" height="20" rx="4" fill="none" stroke="#ff6b35" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;0;0;1;0;0;0" keyTimes="0;0.17;0.34;0.51;0.68;0.85;1" calcMode="discrete" dur="5s" repeatCount="indefinite"/></rect>
+    <rect x="962" y="200" width="40" height="20" rx="4" fill="none" stroke="#ff6b35" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;1;0;0" keyTimes="0;0.17;0.34;0.51;0.68;0.85;1" calcMode="discrete" dur="5s" repeatCount="indefinite"/></rect>
+    <rect x="1012" y="200" width="40" height="20" rx="4" fill="none" stroke="#ff6b35" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;1;0" keyTimes="0;0.17;0.34;0.51;0.68;0.85;1" calcMode="discrete" dur="5s" repeatCount="indefinite"/></rect>
+  </g>
+  <g>
+    <path d="M1062 203 h5 v-3 a4 4 0 0 1 8 0 v3 h5 v13 h-18 z" fill="none" stroke="#00ff9f" stroke-width="1.3"/>
+    <text x="1090" y="214" font-size="8" letter-spacing="1" fill="#00ff9f">SIGNED</text>
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.6s" repeatCount="indefinite"/>
+  </g>
+</g>
+</svg>
