@@ -4,6 +4,7 @@
 
 <br>
 
+<a href="https://devansh-patel-hacker.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-devansh--patel--hacker.vercel.app-22d3ee?style=for-the-badge&logo=vercel&logoColor=white&labelColor=05070c" alt="Live portfolio" /></a>
 <a href="https://www.linkedin.com/in/devansh-patel-5ab00a219/"><img src="https://img.shields.io/badge/LINKEDIN-devansh--patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070c" alt="LinkedIn" /></a>
 <a href="https://tryhackme.com/p/ByteShell"><img src="https://img.shields.io/badge/TRYHACKME-ByteShell-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=05070c" alt="TryHackMe" /></a>
 <a href="https://v3n0m.medium.com/"><img src="https://img.shields.io/badge/MEDIUM-v3n0m-00ab6c?style=for-the-badge&logo=medium&logoColor=white&labelColor=05070c" alt="Medium" /></a>
@@ -41,7 +42,30 @@ I build tooling that turns raw reconnaissance into findings someone can actually
 
 <img src="assets/rule.svg" width="100%" alt="" />
 
-<h2><samp>&#9608;&#9617;&nbsp;&nbsp;02 &#8212; OPERATING PROCEDURE</samp></h2>
+<h2><samp>&#9608;&#9617;&nbsp;&nbsp;02 &#8212; LIVE DOSSIER</samp></h2>
+
+<a href="https://devansh-patel-hacker.vercel.app"><img src="assets/card-portfolio.svg" width="100%" alt="Live portfolio at devansh-patel-hacker.vercel.app — Devansh Patel, cyber security analyst: VAPT, digital forensics and GRC" /></a>
+
+This README is the index. **[devansh-patel-hacker.vercel.app](https://devansh-patel-hacker.vercel.app)** is the full case file — every tool with its architecture and the evidence it produces, the internship work, the competition record, and the résumé.
+
+<div align="center">
+
+<table>
+<tr>
+<td width="16%" align="center"><a href="https://devansh-patel-hacker.vercel.app#work"><samp><b>WORK</b></samp></a><br><sub>Four tools, in depth</sub></td>
+<td width="16%" align="center"><a href="https://devansh-patel-hacker.vercel.app#about"><samp><b>ABOUT</b></samp></a><br><sub>Who I am</sub></td>
+<td width="16%" align="center"><a href="https://devansh-patel-hacker.vercel.app#experience"><samp><b>EXPERIENCE</b></samp></a><br><sub>Two internships</sub></td>
+<td width="16%" align="center"><a href="https://devansh-patel-hacker.vercel.app#skills"><samp><b>SKILLS</b></samp></a><br><sub>Capability map</sub></td>
+<td width="16%" align="center"><a href="https://devansh-patel-hacker.vercel.app#record"><samp><b>RECORD</b></samp></a><br><sub>Podiums &amp; awards</sub></td>
+<td width="16%" align="center"><a href="https://devansh-patel-hacker.vercel.app#contact"><samp><b>CONTACT</b></samp></a><br><sub>Open to 2027 roles</sub></td>
+</tr>
+</table>
+
+</div>
+
+<img src="assets/rule.svg" width="100%" alt="" />
+
+<h2><samp>&#9608;&#9617;&nbsp;&nbsp;03 &#8212; OPERATING PROCEDURE</samp></h2>
 
 <img src="assets/ops-chain.svg" width="100%" alt="Pipeline: scope, recon, enumerate, exploit, validate, document, report, harden" />
 
@@ -58,7 +82,7 @@ I build tooling that turns raw reconnaissance into findings someone can actually
 
 <img src="assets/rule.svg" width="100%" alt="" />
 
-<h2><samp>&#9608;&#9617;&nbsp;&nbsp;03 &#8212; FIELD PROJECTS</samp></h2>
+<h2><samp>&#9608;&#9617;&nbsp;&nbsp;04 &#8212; FIELD PROJECTS</samp></h2>
 
 <a href="https://github.com/D3v4nshPat3l/ULPF"><img src="assets/card-ulpf.svg" width="100%" alt="ULPF — Universal Log Pre-processing Framework, SIH 2026 PS 26156: normalizes heterogeneous security logs to OCSF 1.9 with a tamper-evident chain of custody" /></a>
 
@@ -81,6 +105,8 @@ I build tooling that turns raw reconnaissance into findings someone can actually
 </tr>
 </table>
 
+> Full case study for each of these — architecture, trade-offs and sample output — lives on the site: [ReconTitan](https://devansh-patel-hacker.vercel.app#p-recontitan) &#183; [HexForge Studio](https://devansh-patel-hacker.vercel.app#p-hexforge) &#183; [ULPF](https://devansh-patel-hacker.vercel.app#p-ulpf) &#183; [Interview Hub](https://devansh-patel-hacker.vercel.app#p-interviewhub)
+
 <details>
 <summary><samp><b>&#9656;&nbsp; SUPPORTING REPOSITORIES</b></samp></summary>
 
@@ -98,7 +124,7 @@ I build tooling that turns raw reconnaissance into findings someone can actually
 
 <img src="assets/rule.svg" width="100%" alt="" />
 
-<h2><samp>&#9608;&#9617;&nbsp;&nbsp;04 &#8212; ARSENAL</samp></h2>
+<h2><samp>&#9608;&#9617;&nbsp;&nbsp;05 &#8212; ARSENAL</samp></h2>
 
 <img src="assets/arsenal.svg" width="100%" alt="Capability matrix across web security, recon and OSINT, automation, network, forensics and blue team" />
 
@@ -206,7 +232,7 @@ I build tooling that turns raw reconnaissance into findings someone can actually
 
 <img src="assets/rule.svg" width="100%" alt="" />
 
-<h2><samp>&#9608;&#9617;&nbsp;&nbsp;05 &#8212; TELEMETRY</samp></h2>
+<h2><samp>&#9608;&#9617;&nbsp;&nbsp;06 &#8212; TELEMETRY</samp></h2>
 
 <div align="center">
 
@@ -228,7 +254,7 @@ I build tooling that turns raw reconnaissance into findings someone can actually
 
 <img src="assets/rule.svg" width="100%" alt="" />
 
-<h2><samp>&#9608;&#9617;&nbsp;&nbsp;06 &#8212; CURRENT OPS</samp></h2>
+<h2><samp>&#9608;&#9617;&nbsp;&nbsp;07 &#8212; CURRENT OPS</samp></h2>
 
 ```console
 $ tail -f ~/ops/NOW.log
@@ -268,10 +294,11 @@ $ tail -f ~/ops/NOW.log
 
 <img src="assets/rule.svg" width="100%" alt="" />
 
-<h2><samp>&#9608;&#9617;&nbsp;&nbsp;07 &#8212; CHANNELS</samp></h2>
+<h2><samp>&#9608;&#9617;&nbsp;&nbsp;08 &#8212; CHANNELS</samp></h2>
 
 <div align="center">
 
+<a href="https://devansh-patel-hacker.vercel.app"><img src="https://img.shields.io/badge/OPEN_THE_FULL_PORTFOLIO-22d3ee?style=for-the-badge&logo=vercel&logoColor=white&labelColor=05070c" alt="Open the full portfolio" /></a>
 <a href="https://www.linkedin.com/in/devansh-patel-5ab00a219/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070c" alt="Connect on LinkedIn" /></a>
 <a href="https://v3n0m.medium.com/"><img src="https://img.shields.io/badge/READ_THE_WRITEUPS-00ab6c?style=for-the-badge&logo=medium&logoColor=white&labelColor=05070c" alt="Read the writeups" /></a>
 <a href="https://tryhackme.com/p/ByteShell"><img src="https://img.shields.io/badge/TRYHACKME_PROFILE-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=05070c" alt="TryHackMe profile" /></a>

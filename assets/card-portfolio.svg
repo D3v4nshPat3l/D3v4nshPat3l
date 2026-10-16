@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Live portfolio at devansh-patel-hacker.vercel.app - Devansh Patel, cyber security analyst, VAPT, digital forensics and GRC; four tools shipped, first place at Cyber Clash Deakin, 8.58 CGPA at RRU class of 2027, 32.4 million log records normalised">
+<title>LIVE DOSSIER &#183; devansh-patel-hacker.vercel.app</title>
+<defs>
+  <linearGradient id="pf-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#05101a"/><stop offset="0.55" stop-color="#040b12"/><stop offset="1" stop-color="#03070c"/>
+  </linearGradient>
+  <radialGradient id="pf-glow" cx="78%" cy="44%" r="58%">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity="0.14"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="pf-glow2" cx="14%" cy="76%" r="46%">
+    <stop offset="0" stop-color="#00ff9f" stop-opacity="0.10"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="pf-grid" width="26" height="26" patternUnits="userSpaceOnUse">
+    <path d="M26 0 V26 M0 26 H26" stroke="#0c2029" stroke-width="1" fill="none"/>
+  </pattern>
+  <linearGradient id="pf-scan" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#7cf3ff" stop-opacity="0.75"/>
+    <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="pf-under" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#00ff9f" stop-opacity="0.15"/>
+  </linearGradient>
+  <linearGradient id="pf-edge" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity="0.55"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0.08"/>
+  </linearGradient>
+
+  <clipPath id="pf-card"><rect x="1" y="1" width="1198" height="298" rx="14"/></clipPath>
+  <clipPath id="pf-url"><rect x="122" y="13" width="0" height="21">
+    <animate attributeName="width" values="0;0;236;236;236" keyTimes="0;0.02;0.14;0.95;1" dur="9s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <clipPath id="pf-l1"><rect x="640" y="84" width="0" height="16">
+    <animate attributeName="width" values="0;0;345;345" keyTimes="0;0.022;0.133;1" dur="9s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <clipPath id="pf-l2"><rect x="640" y="104" width="0" height="16">
+    <animate attributeName="width" values="0;0;318;318" keyTimes="0;0.144;0.233;1" dur="9s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <clipPath id="pf-l3"><rect x="640" y="124" width="0" height="16">
+    <animate attributeName="width" values="0;0;318;318" keyTimes="0;0.244;0.333;1" dur="9s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <clipPath id="pf-l4"><rect x="640" y="144" width="0" height="16">
+    <animate attributeName="width" values="0;0;318;318" keyTimes="0;0.344;0.433;1" dur="9s" repeatCount="indefinite"/>
+  </rect></clipPath>
+</defs>
+
+<g clip-path="url(#pf-card)">
+  <rect width="1200" height="300" fill="url(#pf-bg)"/>
+  <rect width="1200" height="300" fill="url(#pf-grid)" opacity="0.5"/>
+  <rect width="1200" height="300" fill="url(#pf-glow)"/>
+  <rect width="1200" height="300" fill="url(#pf-glow2)"/>
+
+  <rect x="0" y="0" width="1200" height="47" fill="#071219" opacity="0.92"/>
+  <path d="M0 47 H1200" stroke="#123240" stroke-width="1"/>
+  <circle cx="28" cy="23.5" r="5" fill="#ff2e5b" opacity="0.8"/>
+  <circle cx="47" cy="23.5" r="5" fill="#ffb020" opacity="0.8"/>
+  <circle cx="66" cy="23.5" r="5" fill="#00ff9f" opacity="0.8"/>
+
+  <rect x="92" y="11" width="560" height="25" rx="12.5" fill="#0a1a24" stroke="#153440" stroke-width="1"/>
+  <path d="M107 20 v-2.4a3.1 3.1 0 0 1 6.2 0V20" stroke="#00ff9f" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+  <rect x="105.4" y="20" width="9.4" height="7.2" rx="1.4" fill="#00ff9f" opacity="0.85"/>
+  <text x="122" y="27.8" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#7fe8f7" textLength="234" lengthAdjust="spacingAndGlyphs" clip-path="url(#pf-url)">devansh-patel-hacker.vercel.app</text>
+  <rect x="596" y="16" width="46" height="15" rx="7.5" fill="#06281d" stroke="#0f6b52" stroke-width="0.9"/>
+  <text x="619" y="26.6" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="9" fill="#00ff9f" letter-spacing="0.6">200 OK</text>
+
+  <circle cx="1104" cy="23.5" r="3.6" fill="#00ff9f">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="3.6;4.6;3.6" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1118" y="27.4" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#00ff9f" letter-spacing="2.4">LIVE</text>
+
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace">
+    <text x="36" y="86" font-size="11" fill="#22d3ee" letter-spacing="4.2" opacity="0.85">&#47;&#47; LIVE DOSSIER</text>
+    <text x="36" y="134" font-size="39" font-weight="bold" fill="#eafff6" letter-spacing="1.6">PORTFOLIO</text>
+    <rect x="36" y="147" width="0" height="2.6" rx="1.3" fill="url(#pf-under)">
+      <animate attributeName="width" values="0;0;268;268" keyTimes="0;0.05;0.2;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="36" y="178" font-size="13.5" fill="#c6f4ff">Devansh Patel &#183; Cyber Security Analyst</text>
+    <text x="36" y="200" font-size="11" fill="#7f9aa8" letter-spacing="2.2">VAPT &#183; DIGITAL FORENSICS &#183; GRC</text>
+
+    <rect x="36" y="216" width="196" height="27" rx="13.5" fill="#06281d" stroke="#0f6b52" stroke-width="1">
+      <animate attributeName="stroke" values="#0f6b52;#00ff9f;#0f6b52" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="52" cy="229.5" r="3.4" fill="#00ff9f">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="64" y="233.6" font-size="10.5" fill="#7cffd4" letter-spacing="1.5">OPEN TO 2027 ROLES</text>
+
+    <g font-size="9.5" letter-spacing="1.6" fill="#37604f">
+      <text x="36" y="272">WORK<animate attributeName="fill" values="#37604f;#22d3ee;#37604f;#37604f" keyTimes="0;0.08;0.2;1" dur="9s" repeatCount="indefinite"/></text>
+      <text x="92" y="272">ABOUT<animate attributeName="fill" values="#37604f;#37604f;#22d3ee;#37604f;#37604f" keyTimes="0;0.14;0.22;0.34;1" dur="9s" repeatCount="indefinite"/></text>
+      <text x="156" y="272">EXPERIENCE<animate attributeName="fill" values="#37604f;#37604f;#22d3ee;#37604f;#37604f" keyTimes="0;0.28;0.36;0.48;1" dur="9s" repeatCount="indefinite"/></text>
+      <text x="268" y="272">SKILLS<animate attributeName="fill" values="#37604f;#37604f;#22d3ee;#37604f;#37604f" keyTimes="0;0.42;0.5;0.62;1" dur="9s" repeatCount="indefinite"/></text>
+      <text x="336" y="272">RECORD<animate attributeName="fill" values="#37604f;#37604f;#22d3ee;#37604f;#37604f" keyTimes="0;0.56;0.64;0.76;1" dur="9s" repeatCount="indefinite"/></text>
+      <text x="412" y="272">CONTACT<animate attributeName="fill" values="#37604f;#37604f;#22d3ee;#37604f;#37604f" keyTimes="0;0.7;0.78;0.9;1" dur="9s" repeatCount="indefinite"/></text>
+    </g>
+  </g>
+
+  <path d="M608 70 V268" stroke="url(#pf-edge)" stroke-width="1"/>
+
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5">
+    <text x="640" y="96" fill="#7f9aa8" textLength="345" lengthAdjust="spacingAndGlyphs" clip-path="url(#pf-l1)"><tspan fill="#00ff9f">$</tspan> curl -sI devansh-patel-hacker.vercel.app</text>
+    <text x="640" y="116" fill="#7f9aa8" textLength="318" lengthAdjust="spacingAndGlyphs" clip-path="url(#pf-l2)"><tspan fill="#22d3ee">&#62;</tspan> establishing secure session <tspan fill="#37604f">......</tspan> <tspan fill="#00ff9f">OK</tspan></text>
+    <text x="640" y="136" fill="#7f9aa8" textLength="318" lengthAdjust="spacingAndGlyphs" clip-path="url(#pf-l3)"><tspan fill="#22d3ee">&#62;</tspan> verifying integrity <tspan fill="#37604f">.............</tspan> <tspan fill="#00ff9f">OK</tspan></text>
+    <text x="640" y="156" fill="#7f9aa8" textLength="318" lengthAdjust="spacingAndGlyphs" clip-path="url(#pf-l4)"><tspan fill="#22d3ee">&#62;</tspan> loading devansh.patel <tspan fill="#37604f">...........</tspan> <tspan fill="#00ff9f">200</tspan></text>
+    <rect x="962" y="146" width="7" height="13" fill="#00ff9f">
+      <animate attributeName="opacity" values="0;0;1;0;1;0;1" keyTimes="0;0.44;0.52;0.6;0.68;0.76;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace">
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.46;0.53;1" dur="9s" repeatCount="indefinite"/>
+      <rect x="640" y="184" width="124" height="70" rx="7" fill="#07151d" stroke="#143541" stroke-width="1"/>
+      <text x="654" y="222" font-size="26" font-weight="bold" fill="#22d3ee">04</text>
+      <text x="654" y="240" font-size="8.4" fill="#7f9aa8" letter-spacing="1.1">TOOLS SHIPPED</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.53;0.6;1" dur="9s" repeatCount="indefinite"/>
+      <rect x="776" y="184" width="124" height="70" rx="7" fill="#07151d" stroke="#143541" stroke-width="1"/>
+      <text x="790" y="222" font-size="26" font-weight="bold" fill="#ffb020">1ST</text>
+      <text x="790" y="240" font-size="8.4" fill="#7f9aa8" letter-spacing="1.1">CYBER CLASH</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.6;0.67;1" dur="9s" repeatCount="indefinite"/>
+      <rect x="912" y="184" width="124" height="70" rx="7" fill="#07151d" stroke="#143541" stroke-width="1"/>
+      <text x="926" y="222" font-size="26" font-weight="bold" fill="#00ff9f">8.58</text>
+      <text x="926" y="240" font-size="8.4" fill="#7f9aa8" letter-spacing="1.1">CGPA &#183; RRU 2027</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.67;0.74;1" dur="9s" repeatCount="indefinite"/>
+      <rect x="1048" y="184" width="124" height="70" rx="7" fill="#07151d" stroke="#143541" stroke-width="1"/>
+      <text x="1062" y="222" font-size="26" font-weight="bold" fill="#a78bfa">32.4M</text>
+      <text x="1062" y="240" font-size="8.4" fill="#7f9aa8" letter-spacing="1.1">LOGS NORMALISED</text>
+    </g>
+  </g>
+
+  <rect x="-320" y="47" width="320" height="1.6" fill="url(#pf-scan)">
+    <animate attributeName="x" values="-320;1200" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="14" fill="none" stroke="#143541" stroke-width="1.5"/>
+</svg>
